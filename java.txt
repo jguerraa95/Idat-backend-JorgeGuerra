@@ -1,3 +1,5 @@
 JavaScript
 JavaScript es un lenguaje de programación de alto nivel creado por Brendan Eich en 1995 mientras trabajaba en Netscape Communications. Originalmente, fue diseñado para agregar interactividad a las páginas web en el navegador Netscape Navigator. A medida que la web evolucionó, JavaScript se convirtió en un lenguaje fundamental para el desarrollo web front-end y back-end. Ha experimentado numerosas actualizaciones y estándares a lo largo de los años, y actualmente es ampliamente utilizado para construir aplicaciones web modernas y aplicaciones móviles híbridas.
-PRUEBA
+Nodejs
+
+Node.js es un entorno de ejecución de JavaScript construido sobre el motor JavaScript V8 de Google Chrome. Fue creado por Ryan Dahl en 2009 para permitir la ejecución de JavaScript en el lado del servidor. Node.js revolucionó el desarrollo web al proporcionar un entorno de alto rendimiento y escalable para construir aplicaciones de red en tiempo real.
